@@ -1,9 +1,6 @@
 <html>
   <body>
-    <div style="text-align: center;">
-      <h1 style="color: red;" dir="auto"><a class="heading-link" href="#----senior-software-engineer--">Super Web Developer</a></h1>
-      
-    </div>
+    <h1 style="color: red; text-align: center;" dir="auto"><a class="heading-link" href="#----senior-software-engineer--">Super Web Developer</a></h1>
     <p align="center" dir="auto">
       <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/kaiser3029/kaiser3029/blob/main/Logo.gif" data-target="animated-image.originalLink"><img src="https://github.com/kaiser3029/kaiser3029/raw/main/Logo.gif" style="max-width: 100%; visibility: visible; display: inline-block;" data-target="animated-image.originalImage" data-xblocker="passed"></a>
           <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
