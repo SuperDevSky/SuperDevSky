@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h1 style="color: red; text-align: center;" dir="auto"><a class="heading-link" href="#----senior-software-engineer--">Super Web Developer</a></h1>
+    <h1 style="color: red; text-align: center;" dir="auto"><a class="heading-link" style="text-align: center;" href="#----senior-software-engineer--">Super Web Developer</a></h1>
     <p align="center" dir="auto">
       <animated-image data-catalyst="">
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/kaiser3029/kaiser3029/blob/main/Logo.gif" data-target="animated-image.originalLink">
